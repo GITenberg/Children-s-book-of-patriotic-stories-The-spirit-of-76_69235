@@ -1,0 +1,53 @@
+_repo: Children-s-book-of-patriotic-stories-The-spirit-of-76_69235
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Dickinson, Asa Don
+    birthdate: 1876
+    deathdate: 1960
+    gutenberg_agent_id: '1678'
+    url: http://www.gutenberg.org/2009/agents/1678
+  - agent_name: Dickinson, Helen Winslow Dickinson
+    birthdate: 1885
+    gutenberg_agent_id: '55177'
+    url: http://www.gutenberg.org/2009/agents/55177
+description: ''
+gutenberg_issued: '2022-10-26'
+identifiers:
+  gutenberg: '69235'
+language: en
+pgterms:marc904: https://archive.org/details/childrensbookofp00dick/page/n5/mode/2up
+pgterms:marc905: 20211027060041dickinson
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United States: Doubleday, Page & Company,1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: 'Jabez Rockwell''s powder-horn, by Ralph D. Paine -- The little lord
+  of the manor, by Elbridge S. Brooks -- Old Esther Dudley, by Nathaniel Hawthorne
+  -- Betty''s ride, by Henry S. Canby -- The first blow for American liberty, by Emma
+  W. Demeritt -- The battle of Bunker''s Hill, by Washington Irving -- Her punishment,
+  by Elizabeth Gibson -- Famous words at great moments, by  -- The little fifer, by
+  Helen M. Winslow -- Ethan Allen and the Green Mountain Boys, by Washington Irving        --
+  The capture of the Hennepin gun, by Margaret Emma Ditto -- Paul Revere''s ride,
+  by Henry Wadsworth Longfellow -- Tony''s birthday and George Washington''s, by Agnes
+  Repplier -- A venture in 1777, by S. Weir Mitchell -- A tempest in a big tea-pot,
+  by Samuel Adams Drake -- How the warning was given, by Mabel Nelson Thurston --
+  Susan Tongs, by Ethel Parton -- The little minute-man, by H. G. Paine -- General
+  Gage and the Boston boys, by Samuel Adams Drake -- Washington and the spy, by James
+  Fenimore Cooper -- Three Washington anecdotes, adapted from M. L. Weems -- When
+  George the Third was king, by Elbridge S. Brooks -- Their flag day, by Herbert O.
+  McCrillis -- A true story of the Revolution, by Everett T. Tomlinson -- Polly Callendar:
+  Tory, by Margaret Fenderson -- Neil Davidson in disguise, by Mary Tracy Earle --
+  John Paul Jones, by Rupert S. Holland.'
+title: 'Children''s book of patriotic stories: The spirit of ''76'
+url: http://www.gutenberg.org/ebooks/69235

@@ -1,5 +1,8 @@
 _repo: Children-s-book-of-patriotic-stories-The-spirit-of-76_69235
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69235-h/images/cover.jpg
 creator:
   editors:
   - agent_name: Dickinson, Asa Don
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '55177'
     url: http://www.gutenberg.org/2009/agents/55177
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69235#Children-s-book-of-patriotic-stories-The-spirit-of-76
 gutenberg_issued: '2022-10-26'
 identifiers:
   gutenberg: '69235'
